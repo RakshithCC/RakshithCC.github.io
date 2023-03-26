@@ -1,0 +1,46 @@
+
+
+.hero-txt-color{
+    color: rgb(85, 0, 108) !important;
+}
+
+.hero-sub-text{
+    color: rgb(71, 126, 255)
+}
+
+.footer-links{
+    text-decoration: none;
+    color: black;
+}
+
+.logo-anim{
+    transition: all 1s;
+}
+
+.logo-anim:hover{
+    transform: rotate(-0.01turn) scale(1.25);
+}
+
+.brand-anim{
+    transition: all 1s;
+}
+
+.brand-anim:hover{
+    transform: scale(1.05);
+}
+
+.link-anim{
+    transition: all 1s;
+}
+
+.link-anim:hover{
+    transform:  scale(1.5);
+}
+
+.img-anim{
+    transition: all 1s;
+}
+
+.img-anim:hover{
+    transform:  scale(1.05);
+}
